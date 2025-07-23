@@ -55,8 +55,14 @@ pkg install libpng -y
 ```
 pkg install libjpeg-turbo libpng freetype -y
 ```
+---
+📲 تحميل الاداه
+```
+git clone https://github.com/black-demon-dr7/ImageHack.git
+```
 
 ---
+
 
 📦 ثانياً: تثبيت المكاتب المطلوبة
 ```
@@ -88,11 +94,6 @@ python make_pdf.py
 
 ---
 
-📝 ملاحظات إضافية:
-
-تأكد من أنك تعمل داخل بيئة Termux.
-
-إذا ظهرت لك أخطاء أثناء التثبيت، راجع أسماء الحزم أو تأكد من اتصالك بالإنترنت
 ## [~] Contact Me on :
 
 - [![Github](https://img.shields.io/badge/Github-Demon-purple?style=for-the-badge&logo=github)](https://github.com/black-demon-dr7)
@@ -105,7 +106,7 @@ python make_pdf.py
 #
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=black-demon-dr7&repo=WormGPT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=black-demon-dr7&repo=ImageHack&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 #
 ### ©️ Copyright
 Copyright © 2023 by [Black Demon](https://github.com/black-demon-dr7)
