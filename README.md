@@ -65,6 +65,10 @@ pkg install libjpeg-turbo libpng freetype -y
 ```
 git clone https://github.com/black-demon-dr7/ImageHack.git
 ```
+🗃 Enter the tool folder 
+```
+cd ImageHack
+```
 
 ---
 
