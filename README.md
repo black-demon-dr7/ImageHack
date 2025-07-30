@@ -118,4 +118,4 @@ python make_pdf.py
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=black-demon-dr7&repo=ImageHack&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 #
 ### ©️ Copyright
-Copyright © 2023 by [Black Demon](https://github.com/black-demon-dr7)
+Copyright © 2025 by [Black Demon](https://github.com/black-demon-dr7)
