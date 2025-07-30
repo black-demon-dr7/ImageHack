@@ -1,3 +1,7 @@
+
+
+<img src="https://github.com/black-demon-dr7/ImageHack/blob/main/Megateon.jpg" width="auto" height="auto">
+
 # image mining tool for hacking phones.
 
 * This tool professionally mines images so that when the image is opened on the phone, the device is automatically hacked, and its information and location are collected without the user's knowledge. This powerful and intelligent tool works on Android and iPhone phones. 
