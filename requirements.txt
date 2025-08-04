@@ -1,6 +1,0 @@
-flask
-requests
-user-agents
-rich
-reportlab
-pillow
